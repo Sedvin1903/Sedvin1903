@@ -9,7 +9,7 @@
 
  <p align="left">
  <img  src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%237E09F7&size=20&center=true&lines=Welcome+to+Github+Profile"  >
-<img  src="https://github.com/Sedvin1903/Sedvin1903/blob/main/giphy.gif" >
+<img  src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif"  & height="165">
 </p>
 
 <p>
