@@ -3,7 +3,7 @@
 
 
 
-  #### I'm an Curious and enthusiastic learner , seld-taught student . I'm currently pursuing my Bachelor of Computer Science and Engineering 🖥
+  #### I'm an Curious and enthusiastic learner , self-taught student . I'm currently pursuing my Bachelor of Computer Science and Engineering 🖥
  
 
 
