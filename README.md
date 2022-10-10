@@ -21,6 +21,6 @@
                                                                                                                      
                                                                                                                      
 </p>
-
-
+<!-- [![Top Langs] -->
+ <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=Sedvin1903&theme=tokyonight&layout=compact>
   
