@@ -20,7 +20,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Sedvin1903&theme=tokyonight&border=444" height="165"> 
                                                                                                                      
                                                                                                                      
+                                                                                                                     
 </p>
 <!-- [![Top Langs] -->
  <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=Sedvin1903&theme=tokyonight&layout=compact>
+                                                                                                                     
+   [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)                                                                                                                  
   
