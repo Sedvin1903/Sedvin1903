@@ -46,7 +46,12 @@
 ### Repo Link       : [https://github.com/Sedvin1903/myguvi](https://github.com/Sedvin1903/Atm_simulation)](https://github.com/Sedvin1903/ai_mini_Alexa_assistant)
 ### 2. Ai_Mini_Alexa_assistant
   - An ai voice assistant
-### Repo Link       : [https://github.com/Sedvin1903/myguvi](https://github.com/Sedvin1903/Atm_simulation)https://github.com/Sedvin1903/Atm_simulation
+### Repo Link       : [https://github.com/Sedvin1903/myguvi](https://github.com/Sedvin1903/Atm_simulation)
+### 3. CRUD DB app
+  - Use an ORM to perform CRUD operations on a database
+### Repo Link       : https://github.com/Sedvin1903/miniprojects_pattarai
+
+Use an ORM to perform CRUD operations on a database
 
 ## SpringBoot
 ### Student Information System [ SiS ] 
