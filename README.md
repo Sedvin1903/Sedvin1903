@@ -39,6 +39,10 @@
    - Seamless user experience, efficient navigation, and data management operations.
 ### Deployment link - https://myguvi-sedric-techsupport.netlify.app/
 ### Repo Link       : [https://github.com/Sedvin1903/myguvi](https://github.com/Sedvin1903/myguvi)
+### 3.Alumni Voting System] | Jun 2023 
+   - Developed a robust MERN stack web application with User and Admin Modules ..
+   - Seamless UX , efficient navigation, and data management operations & Report generation ..
+### Repo Link       : [https://github.com/Sedvin1903/alumni_crud_voting_app](https://github.com/Sedvin1903/alumni_crud_voting_app)
 
 ## Python
 ### 1. ATM_simulation
