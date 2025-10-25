@@ -7,7 +7,7 @@
   </a>
 </p>
 
-  #### I'm an Curious and enthusiastic learner , self-taught student . I'm currently pursuing my Bachelor of Computer Science and Engineering 🖥
+  #### I'm an Curious and enthusiastic learner , self-taught student . I'm currently a working SWE at BatonSystems 🖥
  
   <p align="center">
  <img  src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%237E09F7&size=25&center=true&lines=Welcome+to+my+Github+Profile"  >
@@ -18,7 +18,7 @@
   </p>
 
 
-- 🌱 I’m currently learning **Microsoft Full Stack [Angular - .Net 8.0 - MS SQL ]**  
+- 🌱 I’m currently learning **SpringBoot Full Stack [React/Next - Java 11/17 - MySQL ]**  
 - 👯 I’m looking to collaborate on **Full Stack & Other MindBlowing Projects**  
 - 🌐 Check Out My Portfolio @ [https://sedricfr.github.io/sedric.in/](https://sedricfr.github.io/sedric.in/)  
 - 💌 How to reach me **sedric.24cs@licet.ac.in**
@@ -42,6 +42,12 @@
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=sedvin1903)](https://holopin.io/@sedvin1903)   
 
 # Projects 
+
+## Next.JS
+### 1. Commercial Hostel Website | Sept 2025
+   - It acts a portfolio for the Hostel by which the customers can get to know the details
+### Deployment Link : https://www.pattabirammenshostel.com/, https://www.thaailadieshostelchennai.com/
+### Repo Link       : [https://github.com/Sedvin1903/thaai-ladies-hostel-website](https://github.com/Sedvin1903/thaai-ladies-hostel-website)
 
 ## REACT
 ### 1. Stock Inventory Application System | Nov 2023
